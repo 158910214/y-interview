@@ -1,24 +1,29 @@
 # interview
 
 ## Project setup
-```
-yarn install
+
+```node
+npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn serve
+
+```node
+npm start
 ```
 
 ### Compiles and minifies for production
-```
-yarn build
+
+```node
+npm build
 ```
 
 ### Lints and fixes files
-```
-yarn lint
+
+```node
+npm lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Git address
+
+https://github.com/auth-yesc/y-interview.git
