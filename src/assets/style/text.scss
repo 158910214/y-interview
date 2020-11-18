@@ -1,0 +1,39 @@
+// H1=32
+// H2=24
+// H3=19
+// H4=16
+// H5=14
+// H6=13
+.font-h1 {
+  font-size: 32px;
+}
+.font-h2 {
+  font-size: 24px;
+}
+.font-h3 {
+  font-size: 18px;
+}
+.font-h4 {
+  font-size: 16px;
+}
+.font-h5 {
+  font-size: 14px;
+}
+.font-h6 {
+  font-size: 12px;
+}
+
+.txt-center {
+  text-align: center;
+}
+.txt-green {
+  color: greenyellow;
+}
+.txt-link {
+  border-bottom: 2px solid #fff;
+  &:hover {
+    color: #e12121;
+    cursor: pointer;
+    border-bottom: 2px solid #e12121;
+  }
+}

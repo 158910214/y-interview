@@ -1,0 +1,17 @@
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-y {
+  display: flex;
+  flex-direction: column;
+}
+
+.space-around {
+  display: flex;
+  justify-content: space-around;
+}
